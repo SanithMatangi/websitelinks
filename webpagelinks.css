@@ -1,0 +1,51 @@
+
+.web{
+    text-align: center;
+  
+}
+.con1{
+    display: flex;
+    flex-direction: row;
+}
+.icon{
+    font-size: 25px;
+    color: rgb(38, 67, 231);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon2{
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+}
+.icon3{
+    font-size: 25px;
+    color: rgb(38, 67, 231);
+}
+.boxes{
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 0px;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.233);
+    margin: 10px;
+    transition: 1s;
+    background-color: white;
+   
+}
+.boxes:hover{
+    background-color: rgb(250, 228, 166);
+    transform: scale(1.5);
+}
+p{
+    
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.image{
+    width: 30px;
+}
